@@ -9,3 +9,4 @@ python -uv ./800.py
 python -uv ./900.py
 python -uv ./1000.py
 python -uv ./1100.py
+python -uv ./1200.py
