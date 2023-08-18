@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Running Top 100"
 python -u ./index.py
 echo "DONE"
@@ -100,23 +102,3 @@ echo "DONE"
 echo "Return back to Top 100"
 sed -i 's/top2000/top0100/' index.py
 echo "DONE"
-# python -u ./200.py
-# python -u ./300.py
-# python -u ./100.py
-# python -u ./400.py
-# python -u ./500.py
-# python -u ./600.py
-# python -u ./700.py
-# python -u ./800.py
-# python -u ./900.py
-# python -u ./1000.py
-# python -u ./1100.py
-# python -u ./1200.py
-# python -u ./1300.py
-# python -u ./1400.py
-# python -u ./1500.py
-# python -u ./1600.py
-# python -u ./1700.py
-# python -u ./1800.py
-# python -u ./1900.py
-# python -u ./2000.py
